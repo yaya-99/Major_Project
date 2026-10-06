@@ -1,4 +1,4 @@
-# Grounded, Not Just Attending: A Targeted Consistency Objective for Attention-Correct, Semantically Incorrect Image Captioning Errors
+# Grounded Captioning: A Framework for Reducing Semantic Errors in Vision-Language Models
 
 ### Reducing semantic grounding failures in vision–language image captioning models
 
