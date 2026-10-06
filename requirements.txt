@@ -1,0 +1,32 @@
+# Core deep learning
+torch
+torchvision
+
+# Hugging Face
+transformers
+peft
+accelerate
+huggingface_hub
+
+# Vision-language / visual representations
+open_clip_torch
+
+# COCO / dataset utilities
+pycocotools
+
+# Scientific computing
+numpy
+scipy
+pandas
+scikit-learn
+
+# Image processing
+Pillow
+
+# Progress / configuration
+tqdm
+PyYAML
+
+# Visualization
+matplotlib
+seaborn
